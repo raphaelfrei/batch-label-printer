@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>PRT_ETQ_QR_CODE</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Labels.ico</ApplicationIcon>
+    <Authors>Raphael Frei</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Labels.ico" />
+  </ItemGroup>
+
+</Project>
